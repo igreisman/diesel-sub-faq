@@ -1,5 +1,7 @@
 site_name: Diesel-Electric Submarine FAQ
 site_url: https://igreisman.github.io/diesel-sub-faq/
+repo_url: https://github.com/igreisman/diesel-sub-faq
+edit_uri: edit/main/docs/
 plugins:
   - search
   - minify:
