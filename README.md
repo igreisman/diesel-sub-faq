@@ -1,6 +1,6 @@
 # Diesel-Electric Submarine FAQ (MkDocs + GitHub Pages)
 
-This repository is a **no-install** starter. You **do not** need Python or Ruby on your computer.
+This repository is a **no-install** starter.  You **do not** need Python or Ruby on your computer.
 GitHub Actions will build and publish the site automatically.
 
 ## Quick Start
