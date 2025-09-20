@@ -1,4 +1,4 @@
-# Diesel Submarine FAQ
+# Diesel Sub FAQ
 
 ## Quick Start
 1. In your new repo, first create the workflow file in the browser (Step 1).
