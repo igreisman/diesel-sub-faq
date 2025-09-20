@@ -2,11 +2,11 @@
 
 This FAQ is a community effort. Thank you to everyone who has shared expertise, edits, and reviews.
 
-## Maintainer
-- **Irving Greisman — Docent, USS Pampanito (SS-383)**
-
 ## Core contributors
-- Dwight Naset — Created the initial document (over 160 pages!!!)
+- **Dwight Naset** — Docent, USS Pampanito (SS-383).  Created the initial document (over 160 pages!!!)
+
+## Maintainer
+- **Irving Greisman** — Docent, USS Pampanito (SS-383)
 
 ## Acknowledgments
 - Museum staff and volunteers who provided access and feedback.
