@@ -32,3 +32,18 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/igreisman/diesel-sub-faq
+  meta:
+    - name: "twitter:card"
+      content: "summary_large_image"
+    - name: "twitter:title"
+      content: "Diesel-Electric Submarine FAQ"
+    - name: "twitter:description"
+      content: "Clear answers about WWII diesel-electric submarines—technology, life aboard, combat, history."
+    - name: "twitter:image"
+      content: "https://igreisman.github.io/diesel-sub-faq/images/og-cover.png"
+    - property: "og:title"
+      content: "Diesel-Electric Submarine FAQ"
+    - property: "og:description"
+      content: "Clear answers about WWII diesel-electric submarines—technology, life aboard, combat, history."
+    - property: "og:image"
+      content: "https://igreisman.github.io/diesel-sub-faq/images/og-cover.png"

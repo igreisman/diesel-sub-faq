@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://igreisman.github.io/diesel-sub-faq/sitemap.xml
