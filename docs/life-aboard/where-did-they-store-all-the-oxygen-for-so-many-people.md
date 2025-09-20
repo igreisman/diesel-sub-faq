@@ -1,0 +1,12 @@
+# Where did they store all the oxygen for so many people
+
+**Short answer:** <!-- TODO: add 1–2 sentence summary here -->
+
+**Detailed answer:**  
+<!-- TODO: add your detailed explanation here. Use bullets/paragraphs. Include one relevant anecdote if helpful. -->
+
+**Related:**
+<!-- TODO: list 2–3 related pages like:
+- [Batteries & charging](../technology/batteries-and-charging.md)
+- [Crew size](../life-on-board/crew-size.md)
+-->
