@@ -47,3 +47,6 @@ extra:
       content: "Clear answers about WWII diesel-electric submarines—technology, life aboard, combat, history."
     - property: "og:image"
       content: "https://igreisman.github.io/diesel-sub-faq/images/og-cover.png"
+
+nav:
+  - Home: index.md
