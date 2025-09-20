@@ -51,4 +51,4 @@ extra:
 nav:
   - Home: index.md
   - Hull and Compartments:
-      - Overview: hull-and-compartments/_index.md
+      - Overview: hull-and-compartments/index.md
